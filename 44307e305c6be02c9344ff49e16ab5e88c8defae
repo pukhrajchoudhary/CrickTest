@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ac4a560_340640cf",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1006958
+      },
+      "writtenOn": "2015-12-10T12:49:42Z",
+      "side": 1,
+      "message": "Hi Pukhraj please review.",
+      "range": {
+        "startLine": 2,
+        "startChar": 46,
+        "endLine": 2,
+        "endChar": 47
+      },
+      "revId": "44307e305c6be02c9344ff49e16ab5e88c8defae",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
